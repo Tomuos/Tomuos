@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom B-T</h1>
+<p>
+  <img src="https://cdn.discordapp.com/attachments/773885799069515776/1044980059351568454/Self_portrait_bloody_lips_TBT.png" width="300" alt="self portrait">
+</p>
 <h3 align="center">I'm nearing the end of my school of code Journey</h3>
 
 - 🔭 I’m currently working on **Final Project - Kindr**
