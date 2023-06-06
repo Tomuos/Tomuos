@@ -1,15 +1,13 @@
-<h1>Hi 👋, I'm Tom B-T</h1>
+<h1 align="center">Hi 👋, I'm Tom B-T</h1>
+<h3 align="center">I'm nearing the end of my school of code Journey</h3>
 
+- 🔭 I’m currently working on **Final Project - Kindr**
 
-<p>
-  <img src="https://cdn.discordapp.com/attachments/773885799069515776/1044980059351568454/Self_portrait_bloody_lips_TBT.png" width="300" alt="self portrait">
-</p>
+- 👯 I’m looking to collaborate on **Educational learning app**
 
-<h3>I am about to begin my coding journey with the School of Code Bootcamp</h3>
+- 💬 Ask me about **Book recommendations sci fi, fantasy and other genres possibly, games currently ZELDA TEARS OF THE KINGDOM**
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS**
-
-- 💬 Ask me about **Book recommendations sci fi, fantasy and other genres possibly**
+- 📫 How to reach me **Tomulvlup@gmail.com**
 
 - ⚡ Fun fact **I love a good pun, I think I'm a punny guy.**
 
