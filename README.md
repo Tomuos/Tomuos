@@ -5,7 +5,7 @@
 
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.discordapp.com/attachments/773885799069515776/1044980059351568454/Self_portrait_bloody_lips_TBT.png" width="300" alt="self portrait">
 </p>
 
@@ -19,14 +19,14 @@
 
 ## 🚀 Connect with me:
 
-<p align="center">
+<p align="left">
 <a href="https://codepen.io/https://codepen.io/tomuo-burns-tinkler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/tomuo-burns-tinkler" height="30" width="40" /></a>
 <a href="https://twitter.com/@tomulvlup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tomulvlup" height="30" width="40" /></a>
 </p>
 
 ## 🛠 Languages and Tools:
 
-<p align="center"> 
+<p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -40,4 +40,32 @@
 <a href="https://affinity.serif.com/en-gb/photo/"><img alt="Affinity Photo 2 logo" width="40" height="40" class="u-absolute u-position-inside u-w-full u-h-full" src="https://cdn.serif.com/affinity/img/global/logos/affinity-photo-2-020520191502.svg"></a>
 <a href="https://affinity.serif.com/en-gb/publisher/"><img alt="Affinity Publisher 2 logo" width="40" height="40" class="u-absolute u-position-inside u-w-full u-h-full" src="https://cdn.serif.com/affinity/img/global/logos/affinity-publisher-2-020520191502.svg"></a>
 </p>
+
+## Recent projects
+
+I worked with a wonderful group of people at the School of Code to create a community-driven app called Kindr. Here is the presentation we gave on the day. Otherwise, you can visit [this link](https://kindr.netlify.app/) and explore it yourself.
+
+[![Kindr Presentation](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)
+
+If you are trying to track down group members:
+
+- Naomi Crisp
+  - Github: [naomicrisp](https://github.com/naomicrisp)
+  - LinkedIn: [Naomi Crisp](https://www.linkedin.com/in/naomi-crisp/)
+
+- Paul Greenfield
+  - Github: [percygr](https://github.com/percygr)
+  - LinkedIn: [Paul Greenfield](https://www.linkedin.com/in/paul-greenfield/)
+
+- Christian Wilcox
+  - Github: [lastcastleofbowser](https://github.com/lastcastleofbowser)
+  - LinkedIn: [Christian Wilcox](https://www.linkedin.com/in/christianwillcox/)
+
+- Bryony Shepherd
+  - Github: [bryonyShep](https://github.com/bryonyShep)
+  - LinkedIn: [Bryony Shepherd](https://www.linkedin.com/in/bryony-shepherd-124700150/)
+
+- James Attrill
+  - Github: [attrill20](https://github.com/attrill20)
+  - LinkedIn: [James Attrill](https://www.linkedin.com/in/james-codes/)
 
