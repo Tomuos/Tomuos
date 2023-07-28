@@ -9,9 +9,9 @@
   <img src="https://cdn.discordapp.com/attachments/773885799069515776/1044980059351568454/Self_portrait_bloody_lips_TBT.png" width="300" alt="self portrait">
 </p>
 
-## 🌱 I'm nearing the end of my school of code Journey, but taking my first steps into a much larger world 🌏
+## 🌱 The School of Code Journey may have ended, but I'm taking my first steps into a much larger world 🌏
 
-- 🔭 I’ve finished my final project: **Kindr** 👨‍💻
+- 🔭 I’ve finished my final team project: **Kindr** 👨‍💻
 - 👯 I’m looking to collaborate on an **Educational Learning App** 🎓📲
 - 💬 Feel free to ask me about book recommendations 📚 (especially in sci-fi, fantasy), video games (currently playing **Zelda: Tears of the Kingdom** 🎮)
 - 📫 You can reach me at: **Tomulvlup@gmail.com** 💌
