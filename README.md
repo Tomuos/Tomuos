@@ -11,7 +11,7 @@
 
 ## 🌱 I'm nearing the end of my school of code Journey, but taking my first steps into a much larger world 🌏
 
-- 🔭 I’m currently working on my Final Project: **Kindr** 👨‍💻
+- 🔭 I’ve finished my final project: **Kindr** 👨‍💻
 - 👯 I’m looking to collaborate on an **Educational Learning App** 🎓📲
 - 💬 Feel free to ask me about book recommendations 📚 (especially in sci-fi, fantasy), video games (currently playing **Zelda: Tears of the Kingdom** 🎮)
 - 📫 You can reach me at: **Tomulvlup@gmail.com** 💌
