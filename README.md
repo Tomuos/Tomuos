@@ -52,8 +52,7 @@ I worked with a wonderful group of people at the School of Code to create a comm
 
 I had another experience in August 2023 where I was invited to take part in a talk between The School of Code and Binance. Oh Hey look I've provided that video here too
 
-[![Binance x School of Code Talk](https://github.com/Tomuos/Tomuos/assets/path/to/your/uploaded/screenshot.png)](https://www.binance.com/en/live/video?roomId=2150403)
-
+[![Binance x School of Code Talk](https://github.com/Tomuos/Tomuos/raw/main/BinanceTalk.png)](https://www.binance.com/en/live/video?roomId=2150403)
 
 If you are trying to track down group members:
 
