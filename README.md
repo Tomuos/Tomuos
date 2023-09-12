@@ -49,6 +49,11 @@ I worked with a wonderful group of people at the School of Code to create a comm
 
 [![Kindr Presentation](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)
 
+
+I had another experience in august 2023 where I was invited to take part in a talk between The School of Code and Binance. Oh Hey look i've provided that video here too
+
+[![Binance x school of code talk](https://www.binance.com/en/live/video?roomId=2150403)] 
+
 If you are trying to track down group members:
 
 - Naomi Crisp
