@@ -56,40 +56,12 @@ I had another experience in August 2023 where I was invited to take part in a ta
 
 If you are trying to track down group members:
 
-**Naomi Crisp**  
-<img src="https://media.licdn.com/dms/image/D4E35AQH6qnfewOFLxQ/profile-framedphoto-shrink_800_800/0/1690364780151?e=1695243600&v=beta&t=cIykTrg6Ffbw8DJHxRTTRSLKnK6e27IsZfRvWLfAcRU" alt="Naomi's LinkedIn Profile Picture" width="200" height="200">
-
-- Github: [naomicrisp](https://github.com/naomicrisp)
-- LinkedIn: [Naomi Crisp](https://linkedin.com/in/naomicrisp)
-
-
-
-**Paul Greenfield**
-
-<img src="https://media.licdn.com/dms/image/C4D35AQGiiUxExPnKzA/profile-framedphoto-shrink_800_800/0/1605184900483?e=1695243600&v=beta&t=Z0_DVhXguYXak-Q9TRfw4Qz0CY1qiVn5pMxHwgULqns" alt="Paul's LinkedIn Profile Picture" width="200" height="200">
-
-- Github: [percygr](https://github.com/percygr)
-- LinkedIn: [Paul Greenfield](https://www.linkedin.com/in/paul-greenfield/)
+|   **Naomi Crisp**   |   **Paul Greenfield**   |   **Christian Wilcox**   |   **Bryony Shepherd**   |   **James Attrill**   |
+|:-------------------:|:-----------------------:|:-------------------------:|:------------------------:|:--------------------:|
+| <img src="https://media.licdn.com/dms/image/D4E35AQH6qnfewOFLxQ/profile-framedphoto-shrink_800_800/0/1690364780151?e=1695243600&v=beta&t=cIykTrg6Ffbw8DJHxRTTRSLKnK6e27IsZfRvWLfAcRU" alt="Naomi's LinkedIn Profile Picture" width="150" height="150"> | <img src="https://media.licdn.com/dms/image/C4D35AQGiiUxExPnKzA/profile-framedphoto-shrink_800_800/0/1605184900483?e=1695243600&v=beta&t=Z0_DVhXguYXak-Q9TRfw4Qz0CY1qiVn5pMxHwgULqns" alt="Paul's LinkedIn Profile Picture" width="150" height="150"> | <img src="https://media.licdn.com/dms/image/D4E35AQGlBYQQkDNrbQ/profile-framedphoto-shrink_800_800/0/1689153124206?e=1695243600&v=beta&t=T7zZi_dCFQtyDSaxLwV8M_4Eo8OLAW_Wu2OZfIPbbQI" alt="Christian's LinkedIn Profile Picture" width="150" height="150"> | <img src="https://media.licdn.com/dms/image/D4E03AQGw-nE7o3aaGA/profile-displayphoto-shrink_800_800/0/1693904402605?e=1700092800&v=beta&t=kJoq92TIkzuySlQmjOyom2KNaW8nuHirc8rjfADinXY" alt="Bryony's LinkedIn Profile Picture" width="150" height="150"> | <img src="https://media.licdn.com/dms/image/D4E03AQFX4cGrjKMwTw/profile-displayphoto-shrink_800_800/0/1694173591944?e=1700092800&v=beta&t=bFvaGoKqAF7VoSfRHenm0mrIlyAiGmFe819nIbNqAkc" alt="James's LinkedIn Profile Picture" width="150" height="150"> |
+| Github: [naomicrisp](https://github.com/naomicrisp) LinkedIn: [Naomi Crisp](https://linkedin.com/in/naomicrisp) | Github: [percygr](https://github.com/percygr) LinkedIn: [Paul Greenfield](https://www.linkedin.com/in/paul-greenfield/) | Github: [lastcastleofbowser](https://github.com/lastcastleofbowser) LinkedIn: [Christian Wilcox](https://www.linkedin.com/in/christianwillcox/) | Github: [bryonyShep](https://github.com/bryonyShep) LinkedIn: [Bryony Shepherd](https://www.linkedin.com/in/bryony-shepherd-124700150/) | Github: [attrill20](https://github.com/attrill20) LinkedIn: [James Attrill](https://www.linkedin.com/in/james-codes/) |
 
 
 
-**Christian Wilcox**
 
-<img src="https://media.licdn.com/dms/image/D4E35AQGlBYQQkDNrbQ/profile-framedphoto-shrink_800_800/0/1689153124206?e=1695243600&v=beta&t=T7zZi_dCFQtyDSaxLwV8M_4Eo8OLAW_Wu2OZfIPbbQI" alt="Christian's LinkedIn Profile Picture" width="200" height="200">
-
-- Github: [lastcastleofbowser](https://github.com/lastcastleofbowser)
-- LinkedIn: [Christian Wilcox](https://www.linkedin.com/in/christianwillcox/)
-
-
-**Bryony Shepherd**
-
-<img src="https://media.licdn.com/dms/image/D4E03AQGw-nE7o3aaGA/profile-displayphoto-shrink_800_800/0/1693904402605?e=1700092800&v=beta&t=kJoq92TIkzuySlQmjOyom2KNaW8nuHirc8rjfADinXY" alt="Bryony's LinkedIn Profile Picture" width="200" height="200">
-
-- Github: [bryonyShep](https://github.com/bryonyShep)
-- LinkedIn: [Bryony Shepherd](https://www.linkedin.com/in/bryony-shepherd-124700150/)
-
-
-- James Attrill
-  - Github: [attrill20](https://github.com/attrill20)
-  - LinkedIn: [James Attrill](https://www.linkedin.com/in/james-codes/)
 
