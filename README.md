@@ -81,9 +81,13 @@ If you are trying to track down group members:
 - LinkedIn: [Christian Wilcox](https://www.linkedin.com/in/christianwillcox/)
 
 
-- Bryony Shepherd
-  - Github: [bryonyShep](https://github.com/bryonyShep)
-  - LinkedIn: [Bryony Shepherd](https://www.linkedin.com/in/bryony-shepherd-124700150/)
+**Bryony Shepherd**
+
+<img src="https://media.licdn.com/dms/image/D4E03AQGw-nE7o3aaGA/profile-displayphoto-shrink_800_800/0/1693904402605?e=1700092800&v=beta&t=kJoq92TIkzuySlQmjOyom2KNaW8nuHirc8rjfADinXY" alt="Bryony's LinkedIn Profile Picture" width="200" height="200">
+
+- Github: [bryonyShep](https://github.com/bryonyShep)
+- LinkedIn: [Bryony Shepherd](https://www.linkedin.com/in/bryony-shepherd-124700150/)
+
 
 - James Attrill
   - Github: [attrill20](https://github.com/attrill20)
