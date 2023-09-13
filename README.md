@@ -56,13 +56,22 @@ I had another experience in August 2023 where I was invited to take part in a ta
 
 If you are trying to track down group members:
 
-- Naomi Crisp
-  - Github: [naomicrisp](https://github.com/naomicrisp)
-  - LinkedIn: [Naomi Crisp](https://www.linkedin.com/in/naomi-crisp/)
+**Naomi Crisp**  
+<img src="https://media.licdn.com/dms/image/D4E35AQH6qnfewOFLxQ/profile-framedphoto-shrink_800_800/0/1690364780151?e=1695243600&v=beta&t=cIykTrg6Ffbw8DJHxRTTRSLKnK6e27IsZfRvWLfAcRU" alt="Naomi's LinkedIn Profile Picture" width="200" height="200">
 
-- Paul Greenfield
-  - Github: [percygr](https://github.com/percygr)
-  - LinkedIn: [Paul Greenfield](https://www.linkedin.com/in/paul-greenfield/)
+Github: [naomicrisp](https://github.com/naomicrisp)
+LinkedIn: [Naomi Crisp](https://linkedin.com/in/naomicrisp)
+
+
+
+**Paul Greenfield**
+
+<img src="https://media.licdn.com/dms/image/C4D35AQGiiUxExPnKzA/profile-framedphoto-shrink_800_800/0/1605184900483?e=1695243600&v=beta&t=Z0_DVhXguYXak-Q9TRfw4Qz0CY1qiVn5pMxHwgULqns" alt="Paul's LinkedIn Profile Picture" width="200" height="200">
+
+Github: [percygr](https://github.com/percygr)
+LinkedIn: [Paul Greenfield](https://www.linkedin.com/in/paul-greenfield/)
+
+
 
 - Christian Wilcox
   - Github: [lastcastleofbowser](https://github.com/lastcastleofbowser)
