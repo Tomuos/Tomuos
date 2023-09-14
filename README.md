@@ -134,7 +134,7 @@ I'm excited about the prospects of James contributing this unique skill set to f
       </div>
     </td>    
     <!-- James Profile -->
-    <td valign="top">
+    <td valign="top-center">
       <div style="text-align: center;">
         <img src="https://media.licdn.com/dms/image/D4E03AQFX4cGrjKMwTw/profile-displayphoto-shrink_800_800/0/1694173591944?e=1700092800&v=beta&t=bFvaGoKqAF7VoSfRHenm0mrIlyAiGmFe819nIbNqAkc" alt="James's LinkedIn Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; display: block; margin: 0 auto;">
         <br>
