@@ -148,9 +148,13 @@ I'm excited about the prospects of James contributing this unique skill set to f
 
 
 
+## You're still here?
 
 
-[![Go Home it's over](/Tomuos/images/Ferris.png)](https://youtu.be/T1XgFsitnQw?si=AZKtGoPULb0DlraU)
+
+
+
+https://github.com/Tomuos/Tomuos/assets/110429174/893406ec-b380-4da7-a821-d5b45548fa25
 
 
 
