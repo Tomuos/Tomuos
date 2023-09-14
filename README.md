@@ -54,14 +54,98 @@ I had another experience in August 2023 where I was invited to take part in a ta
 
 [![Binance x School of Code Talk](https://github.com/Tomuos/Tomuos/raw/main/BinanceTalk.png)](https://www.binance.com/en/live/video?roomId=2150403)
 
+A bit about Team kindr:
+
+<h2>Naomi</h2> 
+I had the privilege of collaborating with Naomi on our final project at the School of Code. Naomi is a full-stack developer who brings an infectious positivity and unwavering dedication to her work. Not only is she an exceptional coder, but her team spirit is also invaluable. She consistently contributed innovative solutions and helped optimize our workflow through her organized approach. Naomi has a unique ability to make everyone feel valued while still pushing for high-quality results. She's the type of team member that elevates everyone around her, and I would relish the opportunity to work with her again.
+
+<h2>Paul</h2>
+
+Paul stands out as both an exceptional coder and a remarkable team player. His problem-solving skills and backend expertise made him indispensable to our project. Always willing to step in or guide the team, Paul used screen sharing and recordings to keep us informed and in sync. His adaptability extended beyond our team, as he generously lent his expertise to help other groups succeed. His commitment to collaboration made working with Paul highly rewarding, and I am certain that any team would benefit greatly from having him onboard.
+
+<h2>Christian</h2>
+
+
 If you are trying to track down group members:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Profile Cards</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="profile-container">
+    <!-- Naomi Profile  -->
+    <div class="profile-card">
+    <h2>Naomi</h2>
+      <div class="image-container">
+        <img src="https://media.licdn.com/dms/image/D4E35AQH6qnfewOFLxQ/profile-framedphoto-shrink_800_800/0/1690364780151?e=1695243600&v=beta&t=cIykTrg6Ffbw8DJHxRTTRSLKnK6e27IsZfRvWLfAcRU" alt="Naomi's LinkedIn Profile Picture">
+      </div>
+      <div class="info">
+        Github: <a href="https://github.com/naomicrisp">naomicrisp</a><br> 
+        LinkedIn: <a href="https://linkedin.com/in/naomicrisp">Naomi Crisp</a>
+      </div>
+    </div>
+    <!-- Paul Profile  -->
+    <div class="profile-card">
+      <h2>Paul</h2>
+      <div class="image-container">
+        <img src="https://media.licdn.com/dms/image/C4D35AQGiiUxExPnKzA/profile-framedphoto-shrink_800_800/0/1605184900483?e=1695243600&v=beta&t=Z0_DVhXguYXak-Q9TRfw4Qz0CY1qiVn5pMxHwgULqns" alt="Paul's LinkedIn Profile Picture">
+      </div>
+      <div class="info">
+        Github: <a href="https://github.com/percygr">percygr</a><br> 
+        LinkedIn: <a href="https://www.linkedin.com/in/paul-greenfield/">Paul Greenfield</a>
+      </div>
+    </div>
+    <!-- Christian Profile -->
+    <div class="profile-card">
+      <h2>Christian</h2>
+      <div class="image-container">
+        <img src="https://media.licdn.com/dms/image/D4E35AQGlBYQQkDNrbQ/profile-framedphoto-shrink_800_800/0/1689153124206?e=1695243600&v=beta&t=T7zZi_dCFQtyDSaxLwV8M_4Eo8OLAW_Wu2OZfIPbbQI" alt="Christian's LinkedIn Profile Picture">
+      </div>
+      <div class="info">
+        Github: <a href="https://github.com/lastcastleofbowser">lastcastleofbowser</a><br> 
+        LinkedIn: <a href="https://www.linkedin.com/in/christianwillcox/">Christian Wilcox</a>
+      </div>
+    </div>
+    <!-- Profile 4 -->
+    <div class="profile-card">
+      <h2>Bryony</h2>
+      <div class="image-container">
+        <img src="https://media.licdn.com/dms/image/D4E03AQGw-nE7o3aaGA/profile-displayphoto-shrink_800_800/0/1693904402605?e=1700092800&v=beta&t=kJoq92TIkzuySlQmjOyom2KNaW8nuHirc8rjfADinXY" alt="Bryony's LinkedIn Profile Picture">
+      </div>
+      <div class="info">
+        Github: <a href="https://github.com/bryonyShep">bryonyShep</a><br> 
+        LinkedIn: <a href="https://www.linkedin.com/in/bryony-shepherd-124700150/">Bryony Shepherd</a>
+      </div>
+    </div>
+    <!-- Profile 5 -->
+<div class="profile-card">
+  <h2>James</h2>
+  <div class="image-container">
+    <img src="https://media.licdn.com/dms/image/D4E03AQFX4cGrjKMwTw/profile-displayphoto-shrink_800_800/0/1694173591944?e=1700092800&v=beta&t=bFvaGoKqAF7VoSfRHenm0mrIlyAiGmFe819nIbNqAkc" alt="James's LinkedIn Profile Picture">
+  </div>
+  <div class="info">
+    Github: <a href="https://github.com/attrill20">attrill20</a><br> 
+    LinkedIn: <a href="https://www.linkedin.com/in/james-codes/">James Attrill</a>
+  </div>
+</div>
+<!-- Profile 6 (Tom) -->
+<iframe src="https://giphy.com/embed/1vWzzLEcMhl4Y" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-|   **Naomi Crisp**   |   **Paul Greenfield**   |   **Christian Wilcox**   |   **Bryony Shepherd**   |   **James Attrill**   |
-|:-------------------:|:-----------------------:|:-------------------------:|:------------------------:|:--------------------:|
-| <img src="https://media.licdn.com/dms/image/D4E35AQH6qnfewOFLxQ/profile-framedphoto-shrink_800_800/0/1690364780151?e=1695243600&v=beta&t=cIykTrg6Ffbw8DJHxRTTRSLKnK6e27IsZfRvWLfAcRU" alt="Naomi's LinkedIn Profile Picture" width="150" height="150"> | <img src="https://media.licdn.com/dms/image/C4D35AQGiiUxExPnKzA/profile-framedphoto-shrink_800_800/0/1605184900483?e=1695243600&v=beta&t=Z0_DVhXguYXak-Q9TRfw4Qz0CY1qiVn5pMxHwgULqns" alt="Paul's LinkedIn Profile Picture" width="150" height="150"> | <img src="https://media.licdn.com/dms/image/D4E35AQGlBYQQkDNrbQ/profile-framedphoto-shrink_800_800/0/1689153124206?e=1695243600&v=beta&t=T7zZi_dCFQtyDSaxLwV8M_4Eo8OLAW_Wu2OZfIPbbQI" alt="Christian's LinkedIn Profile Picture" width="150" height="150"> | <img src="https://media.licdn.com/dms/image/D4E03AQGw-nE7o3aaGA/profile-displayphoto-shrink_800_800/0/1693904402605?e=1700092800&v=beta&t=kJoq92TIkzuySlQmjOyom2KNaW8nuHirc8rjfADinXY" alt="Bryony's LinkedIn Profile Picture" width="150" height="150"> | <img src="https://media.licdn.com/dms/image/D4E03AQFX4cGrjKMwTw/profile-displayphoto-shrink_800_800/0/1694173591944?e=1700092800&v=beta&t=bFvaGoKqAF7VoSfRHenm0mrIlyAiGmFe819nIbNqAkc" alt="James's LinkedIn Profile Picture" width="150" height="150"> |
-| Github: [naomicrisp](https://github.com/naomicrisp) LinkedIn: [Naomi Crisp](https://linkedin.com/in/naomicrisp) | Github: [percygr](https://github.com/percygr) LinkedIn: [Paul Greenfield](https://www.linkedin.com/in/paul-greenfield/) | Github: [lastcastleofbowser](https://github.com/lastcastleofbowser) LinkedIn: [Christian Wilcox](https://www.linkedin.com/in/christianwillcox/) | Github: [bryonyShep](https://github.com/bryonyShep) LinkedIn: [Bryony Shepherd](https://www.linkedin.com/in/bryony-shepherd-124700150/) | Github: [attrill20](https://github.com/attrill20) LinkedIn: [James Attrill](https://www.linkedin.com/in/james-codes/) |
+<!-- <div class="profile-card">
+  <div class="image-container">
+    <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/1vWzzLEcMhl4Y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/1vWzzLEcMhl4Y"></a></p>
+  </div>
+  <div class="info">
+    Github: <a href="#">you're already here</a><br> 
+    LinkedIn: <a href="https://www.linkedin.com/in/tom-burns-tinkler/">go to my linked in if you like</a>
+  </div>
+</div> -->
 
-
-
+  </div>
+</body>
+</html>
 
 
