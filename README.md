@@ -93,61 +93,50 @@ I'm excited about the prospects of James contributing this unique skill set to f
 
 
 
-# Profiles
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex-basis: 50%; text-align: left;">
-    <h2>Naomi</h2>
-    <div>
-      <img src="https://media.licdn.com/dms/image/D4E35AQH6qnfewOFLxQ/profile-framedphoto-shrink_800_800/0/1690364780151?e=1695243600&v=beta&t=cIykTrg6Ffbw8DJHxRTTRSLKnK6e27IsZfRvWLfAcRU" alt="Naomi's LinkedIn Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
-    </div>
-    <div>
-      GitHub: <a href="https://github.com/naomicrisp">naomicrisp</a><br>
-      LinkedIn: <a href="https://linkedin.com/in/naomicrisp">Naomi Crisp</a>
-    </div>
-  </div>
-  <div style="flex-basis: 50%; text-align: left;">
-    <h2>Paul</h2>
-    <div>
-      <img src="https://media.licdn.com/dms/image/C4D35AQGiiUxExPnKzA/profile-framedphoto-shrink_800_800/0/1605184900483?e=1695243600&v=beta&t=Z0_DVhXguYXak-Q9TRfw4Qz0CY1qiVn5pMxHwgULqns" alt="Paul's LinkedIn Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
-    </div>
-    <div>
-      GitHub: <a href="https://github.com/percygr">percygr</a><br>
-      LinkedIn: <a href="https://www.linkedin.com/in/paul-greenfield/">Paul Greenfield</a>
-    </div>
-  </div>
-  <div style="flex-basis: 50%; text-align: left;">
-    <h2>Christian</h2>
-    <div>
-      <img src="https://media.licdn.com/dms/image/D4E35AQGlBYQQkDNrbQ/profile-framedphoto-shrink_800_800/0/1689153124206?e=1695243600&v=beta&t=T7zZi_dCFQtyDSaxLwV8M_4Eo8OLAW_Wu2OZfIPbbQI" alt="Christian's LinkedIn Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
-    </div>
-    <div>
-      GitHub: <a href="https://github.com/lastcastleofbowser">lastcastleofbowser</a><br>
-      LinkedIn: <a href="https://www.linkedin.com/in/christianwillcox/">Christian Wilcox</a>
-    </div>
-  </div>
-  <div style="flex-basis: 50%; text-align: left;">
-    <h2>Bryony</h2>
-    <div>
-      <img src="https://media.licdn.com/dms/image/D4E03AQGw-nE7o3aaGA/profile-displayphoto-shrink_800_800/0/1693904402605?e=1700092800&v=beta&t=kJoq92TIkzuySlQmjOyom2KNaW8nuHirc8rjfADinXY" alt="Bryony's LinkedIn Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
-    </div>
-    <div>
-      GitHub: <a href="https://github.com/bryonyShep">bryonyShep</a><br>
-      LinkedIn: <a href="https://www.linkedin.com/in/bryony-shepherd-124700150/">Bryony Shepherd</a>
-    </div>
-  </div>
-  <div style="flex-basis: 50%; text-align: left;">
-  <h2>James</h2>
-  <div>
-    <img src="https://media.licdn.com/dms/image/D4E03AQFX4cGrjKMwTw/profile-displayphoto-shrink_800_800/0/1694173591944?e=1700092800&v=beta&t=bFvaGoKqAF7VoSfRHenm0mrIlyAiGmFe819nIbNqAkc" alt="James's LinkedIn Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
-  </div>
-  <div>
-    GitHub: <a href="https://github.com/attrill20">attrill20</a><br>
-    LinkedIn: <a href="https://www.linkedin.com/in/james-codes/">James Attrill</a>
-  </div>
-</div>
-  <!-- Add similar HTML blocks for other profiles here -->
-</div>
+
+<table>
+  <tr>
+    <!-- Naomi Profile -->
+    <td>
+      <div style="text-align: center;">
+        <img src="https://media.licdn.com/dms/image/D4E35AQH6qnfewOFLxQ/profile-framedphoto-shrink_800_800/0/1690364780151?e=1695243600&v=beta&t=cIykTrg6Ffbw8DJHxRTTRSLKnK6e27IsZfRvWLfAcRU" alt="Naomi's LinkedIn Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
+        GitHub: <a href="https://github.com/naomicrisp">naomicrisp</a>
+        LinkedIn: <a href="https://linkedin.com/in/naomicrisp">Naomi Crisp</a>
+      </div>
+    </td>    
+    <!-- Paul Profile -->
+    <td>
+      <div style="text-align: center;">
+        <img src="https://media.licdn.com/dms/image/C4D35AQGiiUxExPnKzA/profile-framedphoto-shrink_800_800/0/1605184900483?e=1695243600&v=beta&t=Z0_DVhXguYXak-Q9TRfw4Qz0CY1qiVn5pMxHwgULqns" alt="Paul's LinkedIn Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
+        GitHub: <a href="https://github.com/percygr">percygr</a>
+        LinkedIn: <a href="https://www.linkedin.com/in/paul-greenfield/">Paul Greenfield</a>
+      </div>
+    </td>    
+    <!-- Christian Profile -->
+    <td>
+      <div style="text-align: center;">
+        <img src="https://media.licdn.com/dms/image/D4E35AQGlBYQQkDNrbQ/profile-framedphoto-shrink_800_800/0/1689153124206?e=1695243600&v=beta&t=T7zZi_dCFQtyDSaxLwV8M_4Eo8OLAW_Wu2OZfIPbbQI" alt="Christian's LinkedIn Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
+        GitHub: <a href="https://github.com/lastcastleofbowser">lastcastleofbowser</a>
+        LinkedIn: <a href="https://www.linkedin.com/in/christianwillcox/">Christian Wilcox</a>
+      </div>
+    </td>    
+    <!-- Bryony Profile -->
+    <td>
+      <div style="text-align: center;">
+        <img src="https://media.licdn.com/dms/image/D4E03AQGw-nE7o3aaGA/profile-displayphoto-shrink_800_800/0/1693904402605?e=1700092800&v=beta&t=kJoq92TIkzuySlQmjOyom2KNaW8nuHirc8rjfADinXY" alt="Bryony's LinkedIn Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
+        GitHub: <a href="https://github.com/bryonyShep">bryonyShep</a>
+        LinkedIn: <a href="https://www.linkedin.com/in/bryony-shepherd-124700150/">Bryony Shepherd</a>
+      </div>
+    </td>    
+    <!-- James Profile -->
+    <td>
+      <div style="text-align: center;">
+        <img src="https://media.licdn.com/dms/image/D4E03AQFX4cGrjKMwTw/profile-displayphoto-shrink_800_800/0/1694173591944?e=1700092800&v=beta&t=bFvaGoKqAF7VoSfRHenm0mrIlyAiGmFe819nIbNqAkc" alt="James's LinkedIn Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
+        GitHub: <a href="https://github.com/attrill20">attrill20</a>
+        LinkedIn: <a href="https://www.linkedin.com/in/james-codes/">James Attrill</a>
+      </div
+
 
 
 
