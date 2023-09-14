@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
 <div align="center">
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tom B-T 🚀
@@ -81,13 +89,7 @@ I'm excited about the prospects of James contributing this unique skill set to f
 
 ## If you are trying to track down group members:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+
   <div class="profile-container">
     <!-- Row 1 -->
     <div class="profile-column">
