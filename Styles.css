@@ -9,22 +9,36 @@ body {
     justify-content: center;
   }
   
+  .profile-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+    text-align: center;
+  }
+  
   .profile-card {
-    width: 200px;
     border: 1px solid #ccc;
     border-radius: 8px;
     padding: 16px;
-    text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    transition: transform 0.2s; /* Added for hover effect */
+  }
+  
+  .profile-card:hover {
+    transform: scale(1.05); /* Scale up on hover */
   }
   
   .image-container img {
-    width: 100%;
-    height: auto;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
   }
   
-  .info {
-    margin-top: 12px;
-  }
+  /* Add additional styles as needed for font size, spacing, etc. */
   
