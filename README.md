@@ -150,7 +150,7 @@ I'm excited about the prospects of James contributing this unique skill set to f
 
 
 
-[![Go Home it's over](https://files.slack.com/files-pri/T04PJE60FCP-F05SCANRVRB/image.png)](https://youtu.be/T1XgFsitnQw?si=AZKtGoPULb0DlraU)
+[![Go Home it's over](/Tomuos/images/Ferris.png)](https://youtu.be/T1XgFsitnQw?si=AZKtGoPULb0DlraU)
 
 
 
