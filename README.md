@@ -65,6 +65,19 @@ Paul stands out as both an exceptional coder and a remarkable team player. His p
 
 <h2>Christian</h2>
 
+Christian excels as a full-stack developer, distinguished by his meticulous attention to detail and proactive problem-solving. His calm and insightful nature adds depth to any project, ensuring quality and open communication. Christian is not only an effective communicator but also an engaging public speaker. His creativity and constructive criticism energize the team, while his innovative ideas for break-time activities boost morale. Punctual, dedicated, and highly communicative, Christian's soft skills make him a standout addition to any team. I strongly recommend connecting with him on LinkedIn—you won't be disappointed!
+
+<h2>Bryony</h2>
+
+Bryony is a standout UX/UI designer with a distinct flair for colour and consistency, as evidenced by her stellar work on the Kindr web project. Beyond her design prowess, she's an adept programmer and a quick learner. Serving as the Design Lead for Kindr, she masterfully handled various aspects, including logo creation, background design, and CSS styling. Her presentation skills—marked by confidence and humor—effectively showcase her designs and contribute to a positive team atmosphere. Bryony's multi-faceted skills, efficiency, and team spirit make her a valuable asset to any project or organization. I have no doubt that she will excel in any future endeavors.
+
+<h2>James</h2>
+
+Working with James again was a highlight, particularly due to his Trello expertise and his skill in elevating team morale. He was consistently attentive, ensuring everyone was on the same page through daily retrospectives that proved crucial for our project's success.
+
+What sets James apart is his full-stack abilities. He seamlessly transitions between front-end and back-end tasks, adding immense value to any project he touches. This blend of technical skill and positive energy makes him an indispensable team member.
+
+I'm excited about the prospects of James contributing this unique skill set to future teams; they're in for an engaging and highly productive experience.
 
 If you are trying to track down group members:
 <!DOCTYPE html>
