@@ -148,9 +148,9 @@ I'm excited about the prospects of James contributing this unique skill set to f
 
 
 
-<video width="920" height="740" controls>
-  <source src="https://youtu.be/T1XgFsitnQw?si=AdPe3KqhhT034krQ" type="video/mp4">
-</video>
+[![Go Home it's over]
+(/Tomuos/images/Ferris.png)]
+([https://www.youtube.com/watch?v=JLMbpiywVxQ](https://youtu.be/T1XgFsitnQw?si=AZKtGoPULb0DlraU)https://youtu.be/T1XgFsitnQw?si=AZKtGoPULb0DlraU)
 
 
 
