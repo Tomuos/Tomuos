@@ -58,6 +58,7 @@ I worked with a wonderful group of people at the School of Code to create a comm
 [![Kindr Presentation](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)
 
 Here's a summary of the video in case you don't have sound currently available: 
+---
 
 In the YouTube video "JSON & the Arguments present - Kindr," the team and I discuss our journey in developing Kindr, an app focused on alleviating rising levels of anxiety, hopelessness, and loneliness in communities. Designed for simplicity and ease of use, Kindr encourages altruistic actions through features like task posting and volunteering. To give viewers a tangible sense of the app, we use gardening as a real-world example.
 
@@ -67,9 +68,11 @@ As for what's on the horizon, we have ambitious plans. We're in the midst of add
 
 Teamwork served as the backbone of our project. Agile methodologies and frequent stand-up meetings helped us navigate the complexities of development smoothly, without any arguments—true to our team name, "JSON & the Arguments."
 
-The video concludes by inviting the community to engage with us and offer feedback. We're not merely coding an app; we're nurturing a community we hope you'll be a part of.
+ We're not merely coding an app; we're nurturing a community we hope you'll be a part of.
+ 
+---
 
-I had another experience in August 2023 where I was invited to take part in a talk between The School of Code and Binance. Oh Hey look I've provided that video here too
+The team and I had another experience in August 2023 where I was invited to take part in a talk between The School of Code and Binance. Oh Hey look I've provided that video here too
 
 [![Binance x School of Code Talk](https://github.com/Tomuos/Tomuos/raw/main/BinanceTalk.png)](https://www.binance.com/en/live/video?roomId=2150403)
 
