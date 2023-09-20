@@ -80,16 +80,16 @@ The team and I had another experience in August 2023 where I was invited to take
 A brief summary 
 
 - Binance charity partnered with the School of Code
-- we were invited to chat to them about what it's like getting into the school of code
+- we were invited to chat with them about what it's like getting into the school of code, what we learned and how they helped us gain confidence 
 - You will see demos for apps made by the Kindr team and 8Bit
 
 
 ---
 
-## A bit about Team kindr:
+## A bit about the Team I was in (JSON and the Arguments) "Kindr":
 
 <h2>Naomi</h2> 
-I had the privilege of collaborating with Naomi on our final project at the School of Code. Naomi is a full-stack developer who brings an infectious positivity and unwavering dedication to her work. Not only is she an exceptional coder, but her team spirit is also invaluable. She consistently contributed innovative solutions and helped optimize our workflow through her organized approach. Naomi has a unique ability to make everyone feel valued while still pushing for high-quality results. She's the type of team member that elevates everyone around her, and I would relish the opportunity to work with her again.
+I had the privilege of collaborating with Naomi on our final project at the School of Code. Naomi is a full-stack developer who brings an infectious positivity and unwavering dedication to her work. Not only is she an exceptional coder, but her team spirit is also invaluable. She consistently contributed innovative solutions and helped optimize our workflow through her organized approach. Naomi has a unique ability to make everyone feel valued while still pushing for high-quality results. She's the type of team member who elevates everyone around her, and I would relish the opportunity to work with her again.
 
 <h2>Paul</h2>
 
@@ -101,7 +101,7 @@ Christian excels as a full-stack developer, distinguished by his meticulous atte
 
 <h2>Bryony</h2>
 
-Bryony is a standout UX/UI designer with a distinct flair for colour and consistency, as evidenced by her stellar work on the Kindr web project. Beyond her design prowess, she's an adept programmer and a quick learner. Serving as the Design Lead for Kindr, she masterfully handled various aspects, including logo creation, background design, and CSS styling. Her presentation skills—marked by confidence and humor—effectively showcase her designs and contribute to a positive team atmosphere. Bryony's multi-faceted skills, efficiency, and team spirit make her a valuable asset to any project or organization. I have no doubt that she will excel in any future endeavors.
+Bryony is a standout UX/UI designer with a distinct flair for colour and consistency, as evidenced by her stellar work on the Kindr web project. Beyond her design prowess, she's an adept programmer and a quick learner. Serving as the Design Lead for Kindr, she masterfully handled various aspects, including logo creation, background design, and CSS styling. Her presentation skills—marked by confidence and humour—effectively showcase her designs and contribute to a positive team atmosphere. Bryony's multi-faceted skills, efficiency, and team spirit make her a valuable asset to any project or organization. I have no doubt that she will excel in any future endeavours.
 
 <h2>James</h2>
 
