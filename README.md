@@ -80,7 +80,7 @@ The team and I had another experience in August 2023 where I was invited to take
 A brief summary 
 
 - Binance charity partnered with the School of Code
-- we were invited to chat with them about what it's like getting into the school of code, what we learned and how they helped us gain confidence 
+- We were invited to chat with them about what it's like getting into the school of code, what we learned and how they helped us gain confidence 
 - You will see demos for apps made by the Kindr team and 8Bit
 
 
@@ -185,4 +185,4 @@ https://github.com/Tomuos/Tomuos/assets/110429174/893406ec-b380-4da7-a821-d5b455
 
 
 
-## I'm only joking, there are some stats below, go ahead  👍
+## I'm only joking, Thanks for visiting  👍
