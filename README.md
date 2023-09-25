@@ -57,15 +57,39 @@ I worked with a wonderful group of people at the School of Code to create a comm
 
 [![Kindr Presentation](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)
 
+Here's a summary of the video in case you don't have sound currently available: 
+---
 
-I had another experience in August 2023 where I was invited to take part in a talk between The School of Code and Binance. Oh Hey look I've provided that video here too
+In the YouTube video "JSON & the Arguments present - Kindr," the team and I discuss our journey in developing Kindr, an app focused on alleviating rising levels of anxiety, hopelessness, and loneliness in communities. Designed for simplicity and ease of use, Kindr encourages altruistic actions through features like task posting and volunteering. To give viewers a tangible sense of the app, we use gardening as a real-world example.
+
+Our development wasn't just about coding; it was a collective endeavour. We offer an inside look at how we used wireframes, milestones, and trusted project management tools like Trello and FigJam to bring our vision to life.
+
+As for what's on the horizon, we have ambitious plans. We're in the midst of adding a user rating system to foster community trust, implementing smarter filtering options, and crafting a chat feature to facilitate more personal interactions.
+
+Teamwork served as the backbone of our project. Agile methodologies and frequent stand-up meetings helped us navigate the complexities of development smoothly, without any arguments—true to our team name, "JSON & the Arguments."
+
+ We're not merely coding an app; we're nurturing a community we hope you'll be a part of.
+ 
+---
+
+The team and I had another experience in August 2023 where I was invited to take part in a talk between The School of Code and Binance. Oh Hey look I've provided that video here too
 
 [![Binance x School of Code Talk](https://github.com/Tomuos/Tomuos/raw/main/BinanceTalk.png)](https://www.binance.com/en/live/video?roomId=2150403)
 
-A bit about Team kindr:
+---
+A brief summary 
+
+- Binance charity partnered with the School of Code
+- We were invited to chat with them about what it's like getting into the school of code, what we learned and how they helped us gain confidence 
+- You will see demos for apps made by the Kindr team and 8Bit
+
+
+---
+
+## A bit about the Team I was in (JSON and the Arguments) "Kindr":
 
 <h2>Naomi</h2> 
-I had the privilege of collaborating with Naomi on our final project at the School of Code. Naomi is a full-stack developer who brings an infectious positivity and unwavering dedication to her work. Not only is she an exceptional coder, but her team spirit is also invaluable. She consistently contributed innovative solutions and helped optimize our workflow through her organized approach. Naomi has a unique ability to make everyone feel valued while still pushing for high-quality results. She's the type of team member that elevates everyone around her, and I would relish the opportunity to work with her again.
+I had the privilege of collaborating with Naomi on our final project at the School of Code. Naomi is a full-stack developer who brings an infectious positivity and unwavering dedication to her work. Not only is she an exceptional coder, but her team spirit is also invaluable. She consistently contributed innovative solutions and helped optimize our workflow through her organized approach. Naomi has a unique ability to make everyone feel valued while still pushing for high-quality results. She's the type of team member who elevates everyone around her, and I would relish the opportunity to work with her again.
 
 <h2>Paul</h2>
 
@@ -77,7 +101,7 @@ Christian excels as a full-stack developer, distinguished by his meticulous atte
 
 <h2>Bryony</h2>
 
-Bryony is a standout UX/UI designer with a distinct flair for colour and consistency, as evidenced by her stellar work on the Kindr web project. Beyond her design prowess, she's an adept programmer and a quick learner. Serving as the Design Lead for Kindr, she masterfully handled various aspects, including logo creation, background design, and CSS styling. Her presentation skills—marked by confidence and humor—effectively showcase her designs and contribute to a positive team atmosphere. Bryony's multi-faceted skills, efficiency, and team spirit make her a valuable asset to any project or organization. I have no doubt that she will excel in any future endeavors.
+Bryony is a standout UX/UI designer with a distinct flair for colour and consistency, as evidenced by her stellar work on the Kindr web project. Beyond her design prowess, she's an adept programmer and a quick learner. Serving as the Design Lead for Kindr, she masterfully handled various aspects, including logo creation, background design, and CSS styling. Her presentation skills—marked by confidence and humour—effectively showcase her designs and contribute to a positive team atmosphere. Bryony's multi-faceted skills, efficiency, and team spirit make her a valuable asset to any project or organization. I have no doubt that she will excel in any future endeavours.
 
 <h2>James</h2>
 
@@ -161,4 +185,4 @@ https://github.com/Tomuos/Tomuos/assets/110429174/893406ec-b380-4da7-a821-d5b455
 
 
 
-## I'm only joking, there are some stats below, go ahead  👍
+## I'm only joking, Thanks for visiting  👍
