@@ -1,44 +1,88 @@
+/* Reset some default styles */
+body, h1, h2, ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set background color and font family */
 body {
-    font-family: Arial, sans-serif;
-  }
-  
-  .profile-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 16px;
-    justify-content: center;
-  }
-  
-  .profile-column {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-    align-items: center;
-    text-align: center;
-  }
-  
-  .profile-card {
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    padding: 16px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 100%;
-    transition: transform 0.2s; /* Added for hover effect */
-  }
-  
-  .profile-card:hover {
-    transform: scale(1.05); /* Scale up on hover */
-  }
-  
-  .image-container img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-  }
-  
-  /* Add additional styles as needed for font size, spacing, etc. */
-  
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+/* Container for the entire profile */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header styles */
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  font-size: 24px;
+}
+
+/* Self-portrait styles */
+.self-portrait {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.self-portrait img {
+  border-radius: 50%;
+}
+
+/* Bio section styles */
+.bio ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+/* Connect section styles */
+.connect h2 {
+  margin-top: 20px;
+}
+
+.connect p {
+  text-align: center;
+}
+
+/* Languages and Tools section styles */
+.languages h2 {
+  margin-top: 20px;
+}
+
+.languages p {
+  text-align: center;
+}
+
+/* Projects section styles */
+.projects h2 {
+  margin-top: 20px;
+}
+
+/* Team section styles */
+.team h2 {
+  margin-top: 20px;
+}
+
+/* Footer styles */
+.footer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #0074d9;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
