@@ -53,7 +53,7 @@
 
 ## Recent projects
 
-I worked with a wonderful group of people at the School of Code to create a community-driven app called Kindr. Here is the presentation we gave on the day. Otherwise, you can visit [this link](https://kindr.netlify.app/) and explore it yourself.
+I worked with a wonderful group of people at the School of Code to create a community-driven app called Kindr. Here is the presentation we gave on the day. Otherwise, you can visit [this link](https://kindr.netlify.app/) and explore it yourself. Unless you want to look under the hood of course you can go to this [repo link](https://github.com/jsonandthearguments/kindr).
 
 [![Kindr Presentation](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)
 
