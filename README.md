@@ -19,10 +19,10 @@
 
 ## 🌱 The School of Code Journey may have ended, but I'm taking my first steps into a much larger world 🌏
 
-- 🔧 Work has begun on my personal project Word Games, I'm making them help my son with phonics and reading.
+- 🔧 Work has begun on my project Word Games, I'm making them help my son with phonics and reading.
 - 🔭 We've finished my final team project: **Kindr** 👨‍💻(we can always add more though)
 - 👯 I’m looking to collaborate on an **Educational Learning App** 🎓📲
-- 🌌 Looking into learning more about backend, using docker and more
+- 🌌 Looking into learning more about the backend, using docker and more
 - 💬 Feel free to ask me about book recommendations 📚 (especially in sci-fi, and fantasy), video games (currently playing **Zelda: Tears of the Kingdom** maybe getting some more games later 🎮)
 - 📫 You can reach me at: **Tomulvlup@gmail.com** 💌
 - ⚡ Fun fact: I love a good pun. You could say, I'm a pun-derful guy! 😄
