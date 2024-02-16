@@ -6,7 +6,7 @@
 </head>
 <body>
 
-![Profile-introduction](../Tomuos/images/Github%20profile.png)
+![Profile-introduction](./images/Github%20profile.png)
 <!-- <div align="center">
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tom B-T 🚀
