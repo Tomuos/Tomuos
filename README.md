@@ -47,7 +47,18 @@
 <a href="https://affinity.serif.com/en-gb/publisher/"><img alt="Affinity Publisher 2 logo" width="40" height="40" class="u-absolute u-position-inside u-w-full u-h-full" src="https://cdn.serif.com/affinity/img/global/logos/affinity-publisher-2-020520191502.svg"></a>
 </p> -->
 
-## Recent projects
+# Recent projects
+
+## My React Portfolio
+
+One of my most recent projects is my portfolio website, it's an ongoing project but I'm happy with the progress so far. Under the image you will find links to my repo and my the live site.
+
+![Portfolio](./images/portfolio-poster.png)
+
+### Here is the repo link: [Portfolio](https://github.com/Tomuos/React-Portfolio) 
+
+### There is also a live at this link: [tomdevspace](https://tomdevspace.netlify.app/)
+
 
 Hello, this is my word games repo here is a link: [Word-games](https://github.com/Tomuos/word-games) I had broken them up into smaller repos per game in the past. Then I decided to try bring them all together in one. They do have there own Readme files but I decided to add them here as well.
 
