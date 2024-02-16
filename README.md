@@ -47,60 +47,63 @@
 <a href="https://affinity.serif.com/en-gb/publisher/"><img alt="Affinity Publisher 2 logo" width="40" height="40" class="u-absolute u-position-inside u-w-full u-h-full" src="https://cdn.serif.com/affinity/img/global/logos/affinity-publisher-2-020520191502.svg"></a>
 </p> -->
 
-# Recent projects
+# Recent Projects
 
 ## My React Portfolio
 
-One of my most recent projects is my portfolio website, it's an ongoing project but I'm happy with the progress so far. Under the image you will find links to my repo and my the live site.
-
 ![Portfolio](./images/portfolio-poster.png)
 
-### Here is the repo link: [Portfolio](https://github.com/Tomuos/React-Portfolio) 
+One of my most recent projects is my portfolio website. It's an ongoing project, but I'm happy with the progress so far. Below, you'll find links to my repository and the live site.
 
-### There is also a live at this link: [tomdevspace](https://tomdevspace.netlify.app/)
+- **Repository:** [GitHub - React Portfolio](https://github.com/Tomuos/React-Portfolio)
+- **Live Site:** [tomdevspace](https://tomdevspace.netlify.app/)
 
+---
 
-Hello, this is my word games repo here is a link: [Word-games](https://github.com/Tomuos/word-games) I had broken them up into smaller repos per game in the past. Then I decided to try bring them all together in one. They do have there own Readme files but I decided to add them here as well.
+## Word Games Collection
 
-# Phonics Memory Game
+I've consolidated various word games into a single repository. Each game has its own README, but I've included their descriptions here for convenience.
+
+### Phonics Memory Game
 
 ![Phonics Memory Game](./images/MG.png)
 
-## Description
+**Description:** "Phonics Memory Game" combines memory challenges with phonetic spellings. Players match phonetically similar words, enhancing both memory and linguistic skills.
 
-"Phonics Memory Game" blends the thrill of memory games with the intricacies of phonetic spellings. Written in JavaScript, this game promises not just fun, but a genuine enhancement of linguistic skills.
+**Gameplay Highlights:**
+- Match phonetic spellings of words with similar sounds.
+- Designed to improve phonetic understanding through engaging gameplay.
 
-### The Challenge
+### Word Constructor
 
-**Phonics Memory Game** - Players are challenged to match the phonetic spelling of a word with another word that echoes a similar sound. For instance, "fog" and "log" might be a pair. As players proceed, the memory challenges increase, offering a compelling gameplay experience.
+![Word Constructor](./images/WC.png)
 
-### Game Philosophy
+**Live Link:** [Word Constructor](https://word-constructor.netlify.app/)
 
-Through sight, sound, and the essence of memorization, "Phonics Memory Game" aims to make learning phonetics an enjoyable endeavor. With every match, players not only score points but also reinforce their phonetic understanding.
+**Description:** "Word Constructor" is a dynamic word puzzle game where players align phonetic sounds with correct spellings, challenging users to spell words accurately.
 
-# Word Constructor
+**Game Insights:**
+- Drag and drop letters to spell words correctly.
+- The game is designed to bridge the gap between phonetic sounds and spelling.
 
-![Word-Constructor](./images/WC.png)
-live link : [Word Constructor](https://word-constructor.netlify.app/)
+---
 
-## Description
-
-"Word Constructor" is an interactive word puzzle game, crafted meticulously in JavaScript to offer users a unique way to reinforce their spelling abilities.
-
-### Gameplay
-
-**Word Constructor** - Dive deep into a game where players need to align the phonetic sound of a word with its correct spelling. The challenge? Dragging the letters into their rightful position on a grid of awaiting boxes. If I managed to add more levels, the difficulty should gradually ramps up, ensuring users are constantly on their toes.
-
-### Why Word Constructor?
-
-Drawing inspiration from the age-old challenge of phonetic spellings, "Word Constructor" aims to bridge the gap between how a word sounds and how it's written, providing a holistic learning experience.
-
-I worked with a wonderful group of people at the School of Code to create a community-driven app called Kindr. Here is the presentation we gave on the day. Otherwise, you can visit [this link](https://kindr.netlify.app/) and explore it yourself. Unless you want to look under the hood of course you can go to this [repo link](https://github.com/jsonandthearguments/kindr).
+## Kindr - A Community-Driven App
 
 [![Kindr Presentation](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)
 
-Here's a summary of the video in case you don't have sound currently available: 
+Developed with a wonderful team at the School of Code, Kindr focuses on fostering community support to combat anxiety and loneliness. Here's a brief overview of our project and its goals.
+
+- **Live Site:** [Kindr](https://kindr.netlify.app/)
+- **Repository:** [GitHub - Kindr](https://github.com/jsonandthearguments/kindr)
+
+**Project Summary:**
+Kindr is designed to encourage altruistic actions, offering features for task posting and volunteering. We utilized tools like Trello and FigJam for project management, aiming to add a user rating system, smarter filtering options, and a chat feature to enhance community interaction.
+
+Our teamwork and agile methodologies were crucial in developing Kindr, emphasizing the importance of collaboration in creating meaningful digital spaces.
+
 ---
+
 
 In the YouTube video "JSON & the Arguments present - Kindr," the team and I discuss our journey in developing Kindr, an app focused on alleviating rising levels of anxiety, hopelessness, and loneliness in communities. Designed for simplicity and ease of use, Kindr encourages altruistic actions through features like task posting and volunteering. To give viewers a tangible sense of the app, we use gardening as a real-world example.
 
