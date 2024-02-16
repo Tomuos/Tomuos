@@ -6,7 +6,8 @@
 </head>
 <body>
 
-<div align="center">
+![Profile-introduction](../Tomuos/images/Github%20profile.png)
+<!-- <div align="center">
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tom B-T 🚀
 
@@ -25,16 +26,11 @@
 - 🌌 Looking into learning more about the backend, using docker and more
 - 💬 Feel free to ask me about book recommendations 📚 (especially in sci-fi, and fantasy), video games (currently playing **Zelda: Tears of the Kingdom** maybe getting some more games later 🎮)
 - 📫 You can reach me at: **Tomulvlup@gmail.com** 💌
-- ⚡ Fun fact: I love a good pun. You could say, I'm a pun-derful guy! 😄
+- ⚡ Fun fact: I love a good pun. You could say, I'm a pun-derful guy! 😄 -->
 
-## 🚀 Connect with me:
 
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/tomuo-burns-tinkler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/tomuo-burns-tinkler" height="30" width="40" /></a>
-<a href="https://twitter.com/@tomulvlup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tomulvlup" height="30" width="40" /></a>
-</p>
 
-## 🛠 Languages and Tools:
+<!-- ## 🛠 Languages and Tools:
 
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -49,9 +45,44 @@
 <a href="https://affinity.serif.com/en-gb/designer/"><img alt="Affinity Designer 2 logo" width="40" height="40" class="u-absolute u-position-inside u-w-full u-h-full" src="https://cdn.serif.com/affinity/img/global/logos/affinity-designer-2-020520191502.svg"></a>
 <a href="https://affinity.serif.com/en-gb/photo/"><img alt="Affinity Photo 2 logo" width="40" height="40" class="u-absolute u-position-inside u-w-full u-h-full" src="https://cdn.serif.com/affinity/img/global/logos/affinity-photo-2-020520191502.svg"></a>
 <a href="https://affinity.serif.com/en-gb/publisher/"><img alt="Affinity Publisher 2 logo" width="40" height="40" class="u-absolute u-position-inside u-w-full u-h-full" src="https://cdn.serif.com/affinity/img/global/logos/affinity-publisher-2-020520191502.svg"></a>
-</p>
+</p> -->
 
 ## Recent projects
+
+Hello, this is my word games repo here is a link: [Word-games](https://github.com/Tomuos/word-games) I had broken them up into smaller repos per game in the past. Then I decided to try bring them all together in one. They do have there own Readme files but I decided to add them here as well.
+
+# Phonics Memory Game
+
+![Phonics Memory Game](./images/MG.png)
+
+## Description
+
+"Phonics Memory Game" blends the thrill of memory games with the intricacies of phonetic spellings. Written in JavaScript, this game promises not just fun, but a genuine enhancement of linguistic skills.
+
+### The Challenge
+
+**Phonics Memory Game** - Players are challenged to match the phonetic spelling of a word with another word that echoes a similar sound. For instance, "fog" and "log" might be a pair. As players proceed, the memory challenges increase, offering a compelling gameplay experience.
+
+### Game Philosophy
+
+Through sight, sound, and the essence of memorization, "Phonics Memory Game" aims to make learning phonetics an enjoyable endeavor. With every match, players not only score points but also reinforce their phonetic understanding.
+
+# Word Constructor
+
+![Word-Constructor](./images/WC.png)
+live link : [Word Constructor](https://word-constructor.netlify.app/)
+
+## Description
+
+"Word Constructor" is an interactive word puzzle game, crafted meticulously in JavaScript to offer users a unique way to reinforce their spelling abilities.
+
+### Gameplay
+
+**Word Constructor** - Dive deep into a game where players need to align the phonetic sound of a word with its correct spelling. The challenge? Dragging the letters into their rightful position on a grid of awaiting boxes. If I managed to add more levels, the difficulty should gradually ramps up, ensuring users are constantly on their toes.
+
+### Why Word Constructor?
+
+Drawing inspiration from the age-old challenge of phonetic spellings, "Word Constructor" aims to bridge the gap between how a word sounds and how it's written, providing a holistic learning experience.
 
 I worked with a wonderful group of people at the School of Code to create a community-driven app called Kindr. Here is the presentation we gave on the day. Otherwise, you can visit [this link](https://kindr.netlify.app/) and explore it yourself. Unless you want to look under the hood of course you can go to this [repo link](https://github.com/jsonandthearguments/kindr).
 
@@ -86,7 +117,7 @@ A brief summary
 
 ---
 
-## A bit about the Team I was in (JSON and the Arguments) "Kindr":
+<!-- ## A bit about the Team I was in (JSON and the Arguments) "Kindr":
 
 <h2>Naomi</h2> 
 I had the privilege of collaborating with Naomi on our final project at the School of Code. Naomi is a full-stack developer who brings an infectious positivity and unwavering dedication to her work. Not only is she an exceptional coder, but her team spirit is also invaluable. She consistently contributed innovative solutions and helped optimize our workflow through her organized approach. Naomi has a unique ability to make everyone feel valued while still pushing for high-quality results. She's the type of team member who elevates everyone around her, and I would relish the opportunity to work with her again.
@@ -109,7 +140,7 @@ Working with James again was a highlight, particularly due to his Trello experti
 
 What sets James apart is his full-stack abilities. He seamlessly transitions between front-end and back-end tasks, adding immense value to any project he touches. This blend of technical skill and positive energy makes him an indispensable team member.
 
-I'm excited about the prospects of James contributing this unique skill set to future teams; they're in for an engaging and highly productive experience.
+I'm excited about the prospects of James contributing this unique skill set to future teams; they're in for an engaging and highly productive experience. -->
 
 ## If you are trying to track down group members:
 
