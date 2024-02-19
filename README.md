@@ -25,6 +25,8 @@ One of my most recent projects is my portfolio website. It's an ongoing project,
 
 I've consolidated various word games into a single repository. Each game has its own README, but I've included their descriptions here for convenience.
 
+- **Repository:**: [GitHub - Word Games Collection](https://github.com/Tomuos/word-games)
+
 ### Phonics Memory Game
 
 ![Phonics Memory Game](./images/MG.png)
@@ -51,9 +53,11 @@ I've consolidated various word games into a single repository. Each game has its
 
 ## Kindr - A Community-Driven App
 
-[![Kindr Presentation](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)](https://github.com/Tomuos/Tomuos/assets/110429174/14af227d-5a52-4cb9-9636-5d1de81f07af)
+![Kindr](./images/Kindr.png)
 
 Developed with a wonderful team at the School of Code, Kindr focuses on fostering community support to combat anxiety and loneliness. Here's a brief overview of our project and its goals.
+- **Video Presentation:**
+[![Kindr Presentation](./images/bgkindrpresentation.png)](https://www.youtube.com/watch?v=3Z3z3z3z3z3)
 
 - **Live Site:** [Kindr](https://kindr.netlify.app/)
 - **Repository:** [GitHub - Kindr](https://github.com/jsonandthearguments/kindr)
