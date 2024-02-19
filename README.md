@@ -56,8 +56,7 @@ I've consolidated various word games into a single repository. Each game has its
 ![Kindr](./images/Kindr.png)
 
 Developed with a wonderful team at the School of Code, Kindr focuses on fostering community support to combat anxiety and loneliness. Here's a brief overview of our project and its goals.
-- **Video Presentation:**
-[![Kindr Presentation](./images/bgkindrpresentation.png)](https://www.youtube.com/watch?v=3Z3z3z3z3z3)
+
 
 - **Live Site:** [Kindr](https://kindr.netlify.app/)
 - **Repository:** [GitHub - Kindr](https://github.com/jsonandthearguments/kindr)
