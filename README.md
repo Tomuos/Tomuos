@@ -53,7 +53,7 @@ I've consolidated various word games into a single repository. Each game has its
 
 ## Kindr - A Community-Driven App
 
-![Kindr](./images/Kindr.png)
+[![Kindr](./images/Kindr.png)](https://kindr.netlify.app/)
 
 Developed with a wonderful team at the School of Code, Kindr focuses on fostering community support to combat anxiety and loneliness. Here's a brief overview of our project and its goals.
 
