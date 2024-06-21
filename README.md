@@ -10,6 +10,24 @@
 
 # Recent Projects
 
+## Movie Reviewer
+
+Made in React, this project demonstrates a full-stack app using The Movie Database (TMDB) API for searching films and adding reviews for selected movies.
+
+![Movie-review-db](./images/Movie-review-db.png)
+
+Currently, this is the landing page for the website. It lists the films by the most recent releases in the cinema. Users can search for a film and see the results.
+
+
+
+**Possible future enhancements:**
+- Link the rating system to the one provided by TMDB to see changes and contributions to the reviews.
+- Add extra validation to prevent users from spamming reviews.
+
+- **Repository:** [GitHub - Movie-review-db](https://github.com/Tomuos/react-movie-reviews?tab=readme-ov-file)
+
+---
+
 ## My React Portfolio
 
 ![Portfolio](./images/portfolio-poster.png)
@@ -60,6 +78,7 @@ Developed with a wonderful team at the School of Code, Kindr focuses on fosterin
 
 - **Live Site:** [Kindr](https://kindr.netlify.app/)
 - **Repository:** [GitHub - Kindr](https://github.com/jsonandthearguments/kindr)
+
 
 **Project Summary:**
 Kindr is designed to encourage altruistic actions, offering features for task posting and volunteering. We utilized tools like Trello and FigJam for project management, aiming to add a user rating system, smarter filtering options, and a chat feature to enhance community interaction.
